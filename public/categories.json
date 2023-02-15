@@ -1,0 +1,15 @@
+[
+    {
+        "categoryName":"Nokia",
+        "image":"https://i.ibb.co/LRYGmbj/nokia-logo.png"
+    },
+    {
+        "categoryName":"Samesung",
+        "image":"https://i.ibb.co/p4Bq0z5/samsung-logo.png"
+    },
+    {
+        "categoryName":"IPhone",
+        "image":"https://i.ibb.co/4pyDcJH/iphon-logo.png"
+    }
+
+]
